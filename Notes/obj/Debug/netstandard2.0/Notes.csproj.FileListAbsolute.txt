@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\mathe\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\mathe\source\repos\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\mathe\source\repos\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\mathe\source\repos\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
